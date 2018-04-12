@@ -3,6 +3,8 @@
 
 1. [Introduction](./introduction.ipynb)  
 1. [Basic functions](./basic.ipynb)
+1. [File IO in MAT file](./file_io.ipynb)  
+1. [Statistics](./stats.ipynb) *Note: Work In Progress*
 
 - Integration  
 - Optimization (**)
@@ -10,8 +12,8 @@
 - Fourier ransforms (***)
 - Signal Processing (***)
 - Linear Algebla (*)
-- Statistics (**)  
 - Mutidimensional image processing (**)  
-- File IO (***)
+
+
 
 
