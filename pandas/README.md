@@ -1,5 +1,6 @@
 # pandas: powerful Python data analysis toolkit  
 [pandas document root](http://pandas.pydata.org/pandas-docs/stable/index.html)
+[pandas document on github (newer)](https://pandas-docs.github.io/pandas-docs-travis/index.html#)
 
 - [10 Minutes to pandas](./intro-10min.ipynb)
     - Series and DataFrame creation  
